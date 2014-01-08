@@ -1,2 +1,4 @@
 # ignore backup files (~)
 *.~
+# test ignoring c++ files
+*.cpp
